@@ -1,6 +1,6 @@
 # Olá, eu sou o João Victor 👋
 
-Sou um **estudante de Engenharia de Computação** (Univesp) e membro ativo do **IEEE** (Computer Society & Robotics and Automation Society). 
+Sou um **estudante de Engenharia de Computação** (Univesp) e membro ativo do **IEEE** (Computer Society (CS) | Robotics and Automation Society (RAS) | Aerospace and Electronic Systems Society (AESS)) | Industrial Eletronics Association (IES)).
 
 Após dois anos atuando como único responsável técnico por automações industriais em .NET, decidi seguir minha verdadeira paixão: a **Arquitetura de Sistemas Completos**. Meu objetivo é dominar o fluxo total da informação, desde o elétron no hardware até o dado na interface do usuário.
 
