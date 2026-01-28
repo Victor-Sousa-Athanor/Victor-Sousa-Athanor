@@ -39,5 +39,5 @@ Minha experiência profissional de 2 anos (setor Aeroespacial/Industrial) foi de
 ### 📫 Contato
 * **Email:** [victor_sousa@computer.org](mailto:victor_sousa@computer.org)
 * **LinkedIn:** [\[Victor Athanor\]](https://www.linkedin.com/in/victor-athanor/)
-* **LinkedIn:** [\[site descrevendo projetos industriais\]](https://www.athanorsystems.com/)
+* **Site:** [\[veja alguns projetos industriais\]](https://www.athanorsystems.com/)
 * **Cidade:** São José dos Campos, SP (Onde o ITA e a Embraer respiram engenharia)
