@@ -10,7 +10,7 @@ After two years as the sole technical lead for industrial automations using .NET
 I am currently contributing as a Volunteer Developer for an IEEE initiative, working closely under the mentorship of **Craig** (an industry veteran from Bell Labs/Nokia currently ahead of Future Networks). This project focuses on high-standard engineering and modern software practices.
 
 * **Project Repository:** [IEEE_BadgeRun](https://github.com/Victor-Sousa-Athanor/IEEE_BadgeRun)
-* **Documentation & MVP (Notion):**  [MVP for March]https://www.notion.so/304bcacfbddb801aa297d2678549e276?source=copy_link
+* **Documentation & MVP (Notion):**  [MVP for March](https://www.notion.so/304bcacfbddb801aa297d2678549e276?source=copy_link)
 ---
 
 ### 🚀 The Big Project: Icarus
