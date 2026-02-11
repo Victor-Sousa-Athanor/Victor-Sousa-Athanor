@@ -1,43 +1,50 @@
-# Olá, eu sou o João Victor 👋
+# Hi there, I'm João Victor 👋
 
-Sou um **estudante de Engenharia de Computação** (Univesp) e membro ativo do **IEEE** (Computer Society (CS) | Robotics and Automation Society (RAS) | Aerospace and Electronic Systems Society (AESS)) | Industrial Eletronics Association (IES)).
+I am a **Computer Engineering student** (Univesp) and an active member of the **IEEE** (affiliated with the Computer Society (CS), Robotics and Automation Society (RAS), Aerospace and Electronic Systems Society (AESS), and Industrial Electronics Society (IES)).
 
-Após dois anos atuando como único responsável técnico por automações industriais em .NET, decidi seguir minha verdadeira paixão: a **Arquitetura de Sistemas Completos**. Meu objetivo é dominar o fluxo total da informação, desde o elétron no hardware até o dado na interface do usuário.
+After two years as the sole technical lead for industrial automations using .NET, I’ve decided to follow my true passion: **Full-Stack Systems Architecture**. My goal is to master the entire information flow—from the electron in the hardware to the data on the user interface.
 
 ---
 
-### 🚀 O Grande Projeto: Icarus
-Estou desenvolvendo do zero um protótipo de drone autônomo para pesquisa e portfólio. Este projeto é minha principal ferramenta de estudo em sistemas de tempo real e baixo nível.
+### 🌟 Featured: IEEE Volunteer Development (Collaboration with Craig)
+I am currently contributing as a Volunteer Developer for an IEEE initiative, working closely under the mentorship of **Craig** (an industry veteran from Bell Labs/Nokia currently ahead of Future Networks). This project focuses on high-standard engineering and modern software practices.
 
-* **Firmware & Controle:** Migrando lógica complexa para **C e C++**.
-* **Sistemas Operacionais:** Utilizando **Raspberry Pi 2W** com kernel **RTLinux (PREEMPT_RT)** para garantir previsibilidade.
-* **Desafio:** Construir cada camada (eletrônica, embarcado e comunicação) de forma independente para entender os fundamentos da engenharia de sistemas de ponta-a-ponta, bit-a-bit.
+* **Project Repository:** [IEEE_BadgeRun](https://github.com/Victor-Sousa-Athanor/IEEE_BadgeRun)
+* **Documentation & MVP (Notion):** https://www.notion.so/304bcacfbddb801aa297d2678549e276?source=copy_link
+---
 
-### 🛠 Tech Stack em Evolução
-| Foco | Tecnologias |
+### 🚀 The Big Project: Icarus
+I am building an autonomous drone prototype from scratch for research and portfolio purposes. This project is my primary tool for studying real-time systems and low-level engineering.
+
+* **Firmware & Control:** Porting complex logic to **C and C++**.
+* **Operating Systems:** Using **Raspberry Pi 2W** with an **RTLinux (PREEMPT_RT)** kernel to ensure deterministic timing.
+* **The Challenge:** Building every layer (electronics, embedded, and communication) independently to understand the fundamentals of end-to-end, bit-by-bit systems engineering.
+
+### 🛠 Evolving Tech Stack
+| Focus | Technologies |
 | :--- | :--- |
-| **Embarcados/Baixo Nível** | C, C++, RTLinux, Eletrônica |
+| **Embedded / Low Level** | C, C++, RTLinux, Electronics |
 | **Backend & Cloud** | .NET 8, ASP.NET Core, PostgreSQL |
 | **Interfaces (HMI)** | Blazor (Web), MAUI (Mobile) |
-| **Sistemas Industriais** | Integração CAD/CAM, Lógica CNC (G-Code) |
+| **Industrial Systems** | CAD/CAM Integration, CNC Logic (G-Code) |
 
 ---
 
-### 🧠 Mentalidade e Mentoria
-Sempre atuei com extrema autonomia, decidindo arquiteturas e resolvendo problemas complexos sozinho no chão de fábrica. No entanto, sei que para chegar ao próximo nível (IA, BCI e Robótica Avançada) ajudas, mentorias e orientações serão indisénsáveis.
+### 🧠 Mindset & Mentorship
+I have always operated with high autonomy, designing architectures and solving complex problems solo on the factory floor. However, I know that to reach the next level (AI, BCI, and Advanced Robotics), guidance and mentorship are indispensable.
 
-* 🌱 **Busco:** Um time de engenharia experiente onde eu possa ser um "aprendiz proativo", contribuindo com minha capacidade de execução enquanto recebo mentoria técnica.
-* 🔭 **Visão:** Sair da camada de processos e entrar na camada de produto e engenharia de hardware/software integrada.
+* 🌱 **Seeking:** An experienced engineering team where I can be a "proactive apprentice," contributing my execution skills while receiving technical mentorship.
+* 🔭 **Vision:** Moving from the process automation layer into the product and integrated hardware/software engineering layer.
 
 ---
 
-### 🔒 Sobre meu GitHub
-Minha experiência profissional de 2 anos (setor Aeroespacial/Industrial) foi desenvolvida sob **NDA** (contrato de confidencialidade). Por isso, meus repositórios públicos estão sendo povoados agora com o progresso do meu drone e meus estudos em C++. 
+### 🔒 About my GitHub
+My 2 years of professional experience (Aerospace/Industrial sectors) were developed under **NDA** (Non-Disclosure Agreement). Therefore, my public repositories are currently being populated with my drone's progress and my deep-dive studies in C++.
 
-> "Se você é um engenheiro sênior e gosta de ensinar quem não tem medo de sujar as mãos com código e solda, vamos conversar!"
+> "If you are a senior engineer who enjoys teaching someone who isn't afraid to get their hands dirty with code and solder, let's talk!"
 
-### 📫 Contato
+### 📫 Get in touch
 * **Email:** [victor_sousa@computer.org](mailto:victor_sousa@computer.org)
-* **LinkedIn:** [\[Victor Athanor\]](https://www.linkedin.com/in/victor-athanor/)
-* **Site:** [\[veja alguns projetos industriais\]](https://www.athanorsystems.com/)
-* **Cidade:** São José dos Campos, SP (Onde o ITA e a Embraer respiram engenharia)
+* **LinkedIn:** [[Victor Athanor]](https://www.linkedin.com/in/victor-athanor/)
+* **Website:** [[View industrial projects]](https://www.athanorsystems.com/)
+* **Location:** São José dos Campos, SP, Brazil (Where ITA and Embraer breathe engineering)
