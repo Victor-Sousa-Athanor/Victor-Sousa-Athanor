@@ -1,50 +1,51 @@
 # Hi there, I'm João Victor 👋
 
-I am a **Computer Engineering student** (Univesp) and an active member of the **IEEE** (affiliated with the Computer Society (CS), Robotics and Automation Society (RAS), Aerospace and Electronic Systems Society (AESS), and Industrial Electronics Society (IES)).
+I am a **Computer Engineering student** (Univesp) and an active member of the **IEEE** (Computer Society, Robotics and Automation Society, Aerospace and Electronic Systems Society, and Industrial Electronics Society).
 
-After two years as the sole technical lead for industrial automations using .NET, I’ve decided to follow my true passion: **Full-Stack Systems Architecture**. My goal is to master the entire information flow—from the electron in the hardware to the data on the user interface.
+I spent the last few years as a solo lead for industrial automation, but I've recently pivoted my focus to building tools that empower solo developers and indie hackers. I'm obsessed with the full-stack flow—from low-level C++ firmware to scalable .NET architectures.
 
 ---
 
-### 🌟 Featured: IEEE Volunteer Development (Collaboration with Craig)
-I am currently contributing as a Volunteer Developer for an IEEE initiative, working closely under the mentorship of **Craig** (an industry veteran from Bell Labs/Nokia currently ahead of Future Networks). This project focuses on high-standard engineering and modern software practices.
+### 🚀 The Current Mission: [BootStrapping.Life](https://bootstrapping.life)
+I am building a **SaaS Construction Framework** designed for solo founders who want to launch projects without the corporate noise. 
+
+* **The "Shovel" Strategy:** I built this platform because I needed a framework to manage my own future SaaS projects. I sell the shovel, but I’m also using it to mine.
+* **Real-World Intelligence:** The system is built around a "RealStories" database—mapping actual success and failure cases of bootstrapped businesses to guide users.
+* **The Hardware Goal:** I’m currently funding the transition from Cloud APIs (Gemini) to **Local LLMs** by investing subscription revenue into a dedicated hardware station for absolute data privacy.
+* *Note: This is a proprietary project, so the repository remains private while I "Build in Public" on LinkedIn.*
+
+---
+
+### 🌟 IEEE Volunteer Development (Mentorship with Craig Polk)
+I am a Volunteer Developer for an IEEE initiative, working under the mentorship of **Craig Polk** (Bell Labs/Nokia veteran). This project focuses on high-standard engineering and modern software practices for professional credentialing.
 
 * **Project Repository:** [IEEE_BadgeRun](https://github.com/Victor-Sousa-Athanor/IEEE_BadgeRun)
-* **Documentation & MVP (Notion):**  [MVP for March](https://www.notion.so/304bcacfbddb801aa297d2678549e276?source=copy_link)
+* **MVP Documentation:** [Notion Roadmap](https://www.notion.so/304bcacfbddb801aa297d2678549e276?source=copy_link)
+
 ---
 
-### 🚀 The Big Project: Icarus
-I am building an autonomous drone prototype from scratch for research and portfolio purposes. This project is my primary tool for studying real-time systems and low-level engineering.
+### 🚁 The Lab: Project Icarus
+When I'm not building SaaS frameworks, I'm in the lab building an autonomous drone from scratch. This is my "ground truth" for studying real-time systems.
 
-* **Firmware & Control:** Porting complex logic to **C and C++**.
-* **Operating Systems:** Using **Raspberry Pi 2W** with an **RTLinux (PREEMPT_RT)** kernel to ensure deterministic timing.
-* **The Challenge:** Building every layer (electronics, embedded, and communication) independently to understand the fundamentals of end-to-end, bit-by-bit systems engineering.
+* **Tech:** C, C++, and **RTLinux (PREEMPT_RT)** on a **Raspberry Pi 2W**.
+* **Goal:** Building every layer (electronics, embedded firmware, and MAVLink communication) to master end-to-end systems engineering.
 
-### 🛠 Evolving Tech Stack
-| Focus | Technologies |
+---
+
+### 🛠 Tech Stack
+| Layer | Technologies |
 | :--- | :--- |
-| **Embedded / Low Level** | C, C++, RTLinux, Electronics |
-| **Backend & Cloud** | .NET 8, ASP.NET Core, PostgreSQL |
-| **Interfaces (HMI)** | Blazor (Web), MAUI (Mobile) |
-| **Industrial Systems** | CAD/CAM Integration, CNC Logic (G-Code) |
+| **Backend / Cloud** | .NET 8/10, ASP.NET Core, PostgreSQL, EF Core |
+| **Frontend / HMI** | Blazor (Web), MAUI (Mobile) |
+| **Embedded / Low Level** | C, C++, RTLinux, Electronics/Soldering |
+| **DevOps / Infra** | Docker, Nginx, Linux Server Management |
 
 ---
-
-### 🧠 Mindset & Mentorship
-I have always operated with high autonomy, designing architectures and solving complex problems solo on the factory floor. However, I know that to reach the next level (AI, BCI, and Advanced Robotics), guidance and mentorship are indispensable.
-
-* 🌱 **Seeking:** An experienced engineering team where I can be a "proactive apprentice," contributing my execution skills while receiving technical mentorship.
-* 🔭 **Vision:** Moving from the process automation layer into the product and integrated hardware/software engineering layer.
-
----
-
-### 🔒 About my GitHub
-My 2 years of professional experience (Aerospace/Industrial sectors) were developed under **NDA** (Non-Disclosure Agreement). Therefore, my public repositories are currently being populated with my drone's progress and my deep-dive studies in C++.
-
-> "If you are a senior engineer who enjoys teaching someone who isn't afraid to get their hands dirty with code and solder, let's talk!"
 
 ### 📫 Get in touch
+* **Website:** [bootstrapping.life](https://bootstrapping.life)
 * **Email:** [victor_sousa@computer.org](mailto:victor_sousa@computer.org)
-* **LinkedIn:** [[Victor Athanor]](https://www.linkedin.com/in/victor-athanor/)
-* **Website:** [[View industrial projects]](https://www.athanorsystems.com/)
-* **Location:** São José dos Campos, SP, Brazil (Where ITA and Embraer breathe engineering)
+* **LinkedIn:** [Victor Sousa](https://www.linkedin.com/in/victor-athanor/)
+* **Location:** São José dos Campos, SP, Brazil
+
+> "I'm a 20-year-old dev building the tools I want to use. If you like .NET, C++, or the 'Build In Public' movement, let's connect!"
